@@ -1,0 +1,6 @@
+name: RCovid
+main: RoMo\RCovid\RCovid
+author: "RoMo_Official"
+version: "1.0.0"
+api:
+  - 3.0.0
